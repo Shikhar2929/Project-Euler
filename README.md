@@ -1,2 +1,2 @@
 # Project-Euler
-Project Euler attempts and solves, primarily in C++
+Project Euler attempts and solves, primarily in C++ and Rust. 
